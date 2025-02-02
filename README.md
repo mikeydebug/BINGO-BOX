@@ -25,3 +25,5 @@ To run this project locally, follow these steps:
 <img width="1708" alt="Screenshot 2025-02-02 at 11 19 25 PM" src="https://github.com/user-attachments/assets/3872183b-60ae-4377-9a0a-fd47992cd83f" />
 <img width="1707" alt="Screenshot 2025-02-02 at 11 21 17 PM" src="https://github.com/user-attachments/assets/8dc9309c-8b29-4dba-a94b-09e122dd3869" />
 <img width="1710" alt="Screenshot 2025-02-02 at 11 22 04 PM" src="https://github.com/user-attachments/assets/996e5893-b977-4fa9-adae-bb4e2c303bf5" />
+<img width="395" alt="Screenshot 2025-02-02 at 11 30 06 PM" src="https://github.com/user-attachments/assets/4a5b32bb-8aad-4a2e-8da6-7a6486436171" />
+<img width="1700" alt="Screenshot 2025-02-02 at 11 30 49 PM" src="https://github.com/user-attachments/assets/6b9ff68b-65fa-45ce-9acb-2a7917e81621" />
