@@ -22,3 +22,6 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/movie-website.git
 
+<img width="1708" alt="Screenshot 2025-02-02 at 11 19 25 PM" src="https://github.com/user-attachments/assets/3872183b-60ae-4377-9a0a-fd47992cd83f" />
+<img width="1707" alt="Screenshot 2025-02-02 at 11 21 17 PM" src="https://github.com/user-attachments/assets/8dc9309c-8b29-4dba-a94b-09e122dd3869" />
+<img width="1710" alt="Screenshot 2025-02-02 at 11 22 04 PM" src="https://github.com/user-attachments/assets/996e5893-b977-4fa9-adae-bb4e2c303bf5" />
